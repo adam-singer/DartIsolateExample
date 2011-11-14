@@ -1,0 +1,1 @@
+Example of using dart Isolate and Promise in a single Dart application. A recursive function fib() is run on its own Isolate with a Promise of finishing the calculation. 
